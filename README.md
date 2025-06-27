@@ -21,7 +21,8 @@ Para este ejercicio se utilizo Google Colab, el cual permite el uso del código 
 5. Condicionales if y else.
 6. Uso de funciones (built in) y especificas.
 7. Uso de metodos para generar graficos
-8. Markdown
+8. Documentación de Funciones (Type Hint)
+9. Markdown
    
  Realizamos el uso de funciones internas de Python (built-in) como sum,len entre otras y funciones personalizadas utilizando la declaración (def).
 
