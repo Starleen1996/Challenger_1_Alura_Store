@@ -35,6 +35,7 @@ Para este ejercicio se utilizo Google Colab, el cual permite el uso del código 
 #Estudiante Espialización Data Sciente:
 Starleen Gaviria
 
+[Tu perfil de GitHub](https://github.com/Starleen1996)
 
 
 
